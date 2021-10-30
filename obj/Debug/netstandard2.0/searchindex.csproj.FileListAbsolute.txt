@@ -1,0 +1,11 @@
+C:\src\searchindex\bin\Debug\netstandard2.0\searchindex.deps.json
+C:\src\searchindex\bin\Debug\netstandard2.0\searchindex.dll
+C:\src\searchindex\bin\Debug\netstandard2.0\searchindex.pdb
+C:\src\searchindex\bin\Debug\netstandard2.0\Microsoft.Search.Interop.dll
+C:\src\searchindex\obj\Debug\netstandard2.0\searchindex.csproj.AssemblyReference.cache
+C:\src\searchindex\obj\Debug\netstandard2.0\searchindex.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\searchindex\obj\Debug\netstandard2.0\searchindex.AssemblyInfoInputs.cache
+C:\src\searchindex\obj\Debug\netstandard2.0\searchindex.AssemblyInfo.cs
+C:\src\searchindex\obj\Debug\netstandard2.0\searchindex.csproj.CoreCompileInputs.cache
+C:\src\searchindex\obj\Debug\netstandard2.0\searchindex.dll
+C:\src\searchindex\obj\Debug\netstandard2.0\searchindex.pdb

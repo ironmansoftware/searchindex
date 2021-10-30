@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aIs+jYZPIGtep9iWm5IqNgiY7/GAB2HpmTQtqmb+lnPdSGr98ZiTsQNgrMvdbLP7RdArL0NGrRSLuW5dkZIMIA==",
+  "success": true,
+  "projectFilePath": "C:\\src\\searchindex\\searchindex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adamr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\adamr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\adamr\\.nuget\\packages\\powershellstandard.library\\5.1.0\\powershellstandard.library.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+C:\src\searchindex\bin\Debug\netstandard2.0\publish\searchindex.dll
+C:\src\searchindex\bin\Debug\netstandard2.0\publish\searchindex.deps.json
+C:\src\searchindex\bin\Debug\netstandard2.0\publish\searchindex.pdb
+C:\src\searchindex\bin\Debug\netstandard2.0\publish\System.Management.Automation.dll
+C:\src\searchindex\bin\Debug\netstandard2.0\publish\Microsoft.Search.Interop.dll
